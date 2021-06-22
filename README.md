@@ -2,6 +2,7 @@
 
 Result:
 ![](assets/result.gif)
+
 Inspiration:
 ![](assets/Solstheim.jpg)
 
