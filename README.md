@@ -1,4 +1,8 @@
 # AshLand
+
+Result:
+![](assets/result.gif)
+Inspiration:
 ![](assets/Solstheim.jpg)
 
 **Description**: Inspired by the ashey island of Solstheim set in the famous video game, Skyrim, I tried my best to recreate a generative world of brownish and little vetegations barely surviving being covered in ash. "Lava" is also present to add the appearance of scorch.
