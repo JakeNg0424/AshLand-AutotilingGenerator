@@ -1,5 +1,7 @@
 # AshLand
 
+### *[Run Generator](https://jakeng0424.github.io/AshLand-AutotilingGenerator/index.html)*
+
 Result:
 
 ![](assets/result.gif)
